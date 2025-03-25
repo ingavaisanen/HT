@@ -1,2 +1,3 @@
 # HT
-Käyttöjärjestelmät ja systeemiohjelmointi
+Käyttöjärjestelmät ja systeemiohjelmointi harjoitustyön lähdekoodit.
+Tekijät: Alisa Sihvonen ja Inga Väisänen
